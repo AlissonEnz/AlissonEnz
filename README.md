@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alisson Enz</h1>
 <h3 align="center">A passionate Software Engineer from Brazil 🇧🇷</h3>
 
-- 🔭 I’m currently working on [W3lcome](https://w3lcome.com/)
+- 🔭 I’m currently working on [OpenEnglish](https://www.openenglish.com.br/) & [W3lcome](https://w3lcome.com/)
 
 - 👨‍💻 All of my projects are available at [https://enzrossi.com.br](https://enzrossi.com.br)
 
